@@ -1,6 +1,7 @@
 <div align="center" markdown="1">
 <img src=".github/frappe-hr-logo.png" alt="Frappe HR logo" width="384"/>
 
+Dharani Kumar!
 Open Source, modern, and easy-to-use HR and Payroll Software for all organizations.
 
 [![CI](https://github.com/frappe/hrms/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/frappe/hrms/actions/workflows/ci.yml)
